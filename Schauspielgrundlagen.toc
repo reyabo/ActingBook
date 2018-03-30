@@ -1,0 +1,102 @@
+\select@language {german}
+\contentsline {chapter}{\nonumberline Vorwort}{vii}{chapter*.2}
+\contentsline {part}{\numberline {I}Grundlagen}{1}{part.1}
+\contentsline {chapter}{\numberline {1}Grundlagen}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Not}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Pers\IeC {\"o}nliche Not}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Textunabh\IeC {\"a}ngige Handlung}{4}{section.1.3}
+\contentsline {part}{\numberline {II}Schauspiel-Methoden}{5}{part.2}
+\contentsline {chapter}{\numberline {1}Tschechow}{7}{chapter.1}
+\contentsline {section}{\numberline {1.1}Grundlage}{7}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Sinne erweitern}{7}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Denken spielen}{7}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Fensterscheibe}{8}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}Emotionen deckeln}{8}{subsection.1.1.4}
+\contentsline {section}{\numberline {1.2}Bewegungsarbeit}{8}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Ausladende Bewegungen}{8}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Staccato (Anfang und Ende)/ Legato (Flie\IeC {\ss }end)}{8}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Blume}{8}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {1.2.4}Wippe}{9}{subsection.1.2.4}
+\contentsline {subsection}{\numberline {1.2.5}Energiezentrum "`Drosselgrube"'}{9}{subsection.1.2.5}
+\contentsline {subsection}{\numberline {1.2.6}Winken aus der Drosselgrube}{9}{subsection.1.2.6}
+\contentsline {section}{\numberline {1.3}Zusammenziehen und Ausdehnen}{9}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}H\IeC {\"a}nde sch\IeC {\"u}tteln mit zusammenziehen oder ausdehnen}{9}{subsection.1.3.1}
+\contentsline {section}{\numberline {1.4}Emotionales Ged\IeC {\"a}chtnis}{10}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Arm heben - physisch - psychisch}{10}{subsection.1.4.1}
+\contentsline {subsubsection}{\nonumberline Punkt im Raum ber\IeC {\"u}hren - Appell}{10}{section*.3}
+\contentsline {subsection}{\numberline {1.4.2}Zeitstrahl}{10}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}Augen in den Schultern}{11}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {1.4.4}3-Wege}{11}{subsection.1.4.4}
+\contentsline {section}{\numberline {1.5}Archetypen}{11}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Bild des Stabs einverleiben}{11}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Haus des Stabs}{11}{subsection.1.5.2}
+\contentsline {subsection}{\numberline {1.5.3}Bild des Ball einverleiben}{11}{subsection.1.5.3}
+\contentsline {subsection}{\numberline {1.5.4}Haus des Balls}{12}{subsection.1.5.4}
+\contentsline {subsection}{\numberline {1.5.5}Bild des Schlleier einverleiben}{12}{subsection.1.5.5}
+\contentsline {subsection}{\numberline {1.5.6}Haus des Schleiers}{12}{subsection.1.5.6}
+\contentsline {subsection}{\numberline {1.5.7}Raumlauf mit "`Ich will \IeC {\textellipsis }"'}{12}{subsection.1.5.7}
+\contentsline {subsection}{\numberline {1.5.8}Raumlauf mit "`Ich lehne \IeC {\textellipsis } ab"'}{12}{subsection.1.5.8}
+\contentsline {subsection}{\numberline {1.5.9}Raumlauf mit "`Ich denke \IeC {\textellipsis }"'}{12}{subsection.1.5.9}
+\contentsline {subsubsection}{\nonumberline Weitere Archetypen}{12}{section*.4}
+\contentsline {section}{\numberline {1.6}Textarbeit/ Rollenarbeit}{13}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Archetypen}{13}{subsection.1.6.1}
+\contentsline {subsection}{\numberline {1.6.2}Monolog schreiben und daran arbeiten}{13}{subsection.1.6.2}
+\contentsline {subsection}{\numberline {1.6.3}psychologische Geste finden}{13}{subsection.1.6.3}
+\contentsline {subsection}{\numberline {1.6.4}Vokale/ Kerns\IeC {\"a}tze mit Geste sprechen}{13}{subsection.1.6.4}
+\contentsline {subsection}{\numberline {1.6.5}Raumlauf mit archetypischen Satz/ Kernsatz}{14}{subsection.1.6.5}
+\contentsline {section}{\numberline {1.7}Welt der Sph\IeC {\"a}ren}{14}{section.1.7}
+\contentsline {chapter}{\numberline {2}Stanislawski}{15}{chapter.2}
+\contentsline {section}{\numberline {2.1}K\IeC {\"o}rperarbeit}{15}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}4 Punkte im Raum}{15}{subsection.2.1.1}
+\contentsline {chapter}{\numberline {3}Meisner}{17}{chapter.3}
+\contentsline {section}{\numberline {3.1}Grundlagen}{18}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Authentisches Reagieren}{18}{subsection.3.1.1}
+\contentsline {subsubsection}{\nonumberline Beobachten und Reagieren}{18}{section*.5}
+\contentsline {part}{\numberline {III}Schauspiel\IeC {\"u}bungen und -spiele}{19}{part.3}
+\contentsline {chapter}{\numberline {1}Schauspiel\IeC {\"u}bungen und -spiele}{21}{chapter.1}
+\contentsline {section}{\numberline {1.1}Raumlauf}{21}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Raumlauf mit Kreideblase}{21}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Raumlauf mit Wahrnehmung des Raumes}{21}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Raumlauf mit Wahrnehmung der Personen}{21}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}Raumlauf mit Begr\IeC {\"u}\IeC {\ss }ung}{21}{subsection.1.1.4}
+\contentsline {section}{\numberline {1.2}Gang zum Stuhl}{21}{section.1.2}
+\contentsline {section}{\numberline {1.3}Gang zum Stuhl mit Subtext}{22}{section.1.3}
+\contentsline {section}{\numberline {1.4}Szene mit 3 Z\IeC {\"u}gen - Et\IeC {\"u}de}{22}{section.1.4}
+\contentsline {section}{\numberline {1.5}T\IeC {\"u}r-Impro}{22}{section.1.5}
+\contentsline {section}{\numberline {1.6}Klatschkreis}{22}{section.1.6}
+\contentsline {section}{\numberline {1.7}Whiskey-Mixer}{22}{section.1.7}
+\contentsline {section}{\numberline {1.8}High-Noon}{23}{section.1.8}
+\contentsline {section}{\numberline {1.9}Bibedi-Bibedi-Bop}{23}{section.1.9}
+\contentsline {section}{\numberline {1.10}Zu-Blinzeln}{23}{section.1.10}
+\contentsline {section}{\numberline {1.11}Blinzel-M\IeC {\"o}rder}{23}{section.1.11}
+\contentsline {part}{\numberline {IV}Inszenierung}{25}{part.4}
+\contentsline {chapter}{\numberline {1}Inzensierung}{27}{chapter.1}
+\contentsline {section}{\numberline {1.1}Inszenierung mittels Bilder}{27}{section.1.1}
+\contentsline {part}{\numberline {V}Atemtechnik und Sprecherziehung}{29}{part.5}
+\contentsline {chapter}{\numberline {1}Atemtechnik und Sprecherziehung}{31}{chapter.1}
+\contentsline {section}{\numberline {1.1}\IeC {\"U}bungen}{31}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Pendeln}{31}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Trampeln}{31}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Beine/ Arme aussch\IeC {\"u}tteln}{31}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}Abklopfen}{31}{subsection.1.1.4}
+\contentsline {subsection}{\numberline {1.1.5}Abklopfen in 3er-Gruppen}{32}{subsection.1.1.5}
+\contentsline {section}{\numberline {1.2}Kiefer \IeC {\"o}ffnen}{32}{section.1.2}
+\contentsline {section}{\numberline {1.3}Kiefer verschieben}{32}{section.1.3}
+\contentsline {section}{\numberline {1.4}Luftkugel}{32}{section.1.4}
+\contentsline {section}{\numberline {1.5}Amulette}{32}{section.1.5}
+\contentsline {section}{\numberline {1.6}Vierteilige Lockerung}{32}{section.1.6}
+\contentsline {section}{\numberline {1.7}Seufzer}{33}{section.1.7}
+\contentsline {subsection}{\numberline {1.7.1}\IeC {\"U}berh\IeC {\"a}ngender Seufzer}{33}{subsection.1.7.1}
+\contentsline {section}{\numberline {1.8}Kutschersitz}{33}{section.1.8}
+\contentsline {section}{\numberline {1.9}Tonkauen}{33}{section.1.9}
+\contentsline {section}{\numberline {1.10}Tonh\IeC {\"o}hen mit Interjektionen variieren}{33}{section.1.10}
+\contentsline {section}{\numberline {1.11}Tonf\IeC {\"u}hrung}{33}{section.1.11}
+\contentsline {section}{\numberline {1.12}Schulter\IeC {\"u}bung}{33}{section.1.12}
+\contentsline {section}{\numberline {1.13}Von Singstimme in Sprechstimme}{33}{section.1.13}
+\contentsline {section}{\numberline {1.14}Namen}{34}{section.1.14}
+\contentsline {section}{\numberline {1.15}Laute sprechen}{34}{section.1.15}
+\contentsline {section}{\numberline {1.16}Arme heben und beim Senken Laute phonieren}{34}{section.1.16}
+\contentsline {section}{\numberline {1.17}Spannung}{34}{section.1.17}
+\contentsline {section}{\numberline {1.18}Rufstimme}{34}{section.1.18}
+\contentsline {section}{\numberline {1.19}Gaumensegel entspannnen}{35}{section.1.19}
+\contentsline {chapter}{\numberline {2}Pers\IeC {\"o}nliches Trainingsprogramm}{37}{chapter.2}
