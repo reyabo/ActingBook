@@ -75,46 +75,50 @@
 \contentsline {section}{\numberline {1.1}Inszenierung mittels Bilder}{27}{section.1.1}
 \contentsline {part}{\numberline {V}Atemtechnik und Sprecherziehung}{29}{part.5}
 \contentsline {chapter}{\numberline {1}Atemtechnik und Sprecherziehung}{31}{chapter.1}
-\contentsline {section}{\numberline {1.1}\IeC {\"U}bungen}{31}{section.1.1}
-\contentsline {subsection}{\numberline {1.1.1}Pendeln}{31}{subsection.1.1.1}
-\contentsline {subsection}{\numberline {1.1.2}Trampeln}{31}{subsection.1.1.2}
-\contentsline {subsection}{\numberline {1.1.3}Beine/ Arme aussch\IeC {\"u}tteln}{31}{subsection.1.1.3}
-\contentsline {subsection}{\numberline {1.1.4}Abklopfen}{31}{subsection.1.1.4}
-\contentsline {subsection}{\numberline {1.1.5}Abklopfen in 3er-Gruppen}{32}{subsection.1.1.5}
-\contentsline {section}{\numberline {1.2}Kiefer \IeC {\"o}ffnen}{32}{section.1.2}
-\contentsline {section}{\numberline {1.3}Kiefer verschieben}{32}{section.1.3}
-\contentsline {section}{\numberline {1.4}Luftkugel}{32}{section.1.4}
-\contentsline {section}{\numberline {1.5}Amulette}{32}{section.1.5}
-\contentsline {section}{\numberline {1.6}Vierteilige Lockerung}{32}{section.1.6}
-\contentsline {section}{\numberline {1.7}Seufzer}{33}{section.1.7}
-\contentsline {subsection}{\numberline {1.7.1}\IeC {\"U}berh\IeC {\"a}ngender Seufzer}{33}{subsection.1.7.1}
-\contentsline {section}{\numberline {1.8}Kutschersitz}{33}{section.1.8}
-\contentsline {section}{\numberline {1.9}Tonkauen}{33}{section.1.9}
-\contentsline {section}{\numberline {1.10}Tonh\IeC {\"o}hen mit Interjektionen variieren}{33}{section.1.10}
-\contentsline {section}{\numberline {1.11}Tonf\IeC {\"u}hrung}{33}{section.1.11}
-\contentsline {section}{\numberline {1.12}Schulter\IeC {\"u}bung}{33}{section.1.12}
-\contentsline {section}{\numberline {1.13}Von Singstimme in Sprechstimme}{33}{section.1.13}
-\contentsline {section}{\numberline {1.14}Namen}{34}{section.1.14}
-\contentsline {section}{\numberline {1.15}Laute sprechen}{34}{section.1.15}
-\contentsline {section}{\numberline {1.16}Arme heben und beim Senken Laute phonieren}{34}{section.1.16}
-\contentsline {section}{\numberline {1.17}Spannung}{34}{section.1.17}
-\contentsline {section}{\numberline {1.18}Rufstimme}{34}{section.1.18}
-\contentsline {section}{\numberline {1.19}Gaumensegel entspannnen}{35}{section.1.19}
-\contentsline {chapter}{\numberline {2}Pers\IeC {\"o}nliches Trainingsprogramm}{37}{chapter.2}
-\contentsline {part}{\numberline {VI}Phonetik}{39}{part.6}
-\contentsline {chapter}{\numberline {1}Kurze Geschichte der Standardlautung}{41}{chapter.1}
-\contentsline {chapter}{\numberline {2}physologisches Sprechen und Atmen}{43}{chapter.2}
-\contentsline {section}{\numberline {2.1}Atmung}{43}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}exspiratorische Orientierung}{43}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Intention}{43}{subsection.2.1.2}
-\contentsline {subsection}{\numberline {2.1.3}Abspannen}{44}{subsection.2.1.3}
-\contentsline {subsection}{\numberline {2.1.4}Tonst\IeC {\"u}tze}{44}{subsection.2.1.4}
-\contentsline {subsection}{\numberline {2.1.5}Der supraglottische Raum}{44}{subsection.2.1.5}
-\contentsline {subsection}{\numberline {2.1.6}Ablauf der Atmung}{45}{subsection.2.1.6}
-\contentsline {section}{\numberline {2.2}Aufbau des Atem- und Sprechtrakts}{45}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Atmungstrakt}{45}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Sprechtrakt}{46}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}Krankheiten}{46}{section.2.3}
-\contentsline {section}{\numberline {2.4}Aussprache}{46}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Vokale}{46}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Konsonaten}{46}{subsection.2.4.2}
+\contentsline {chapter}{\numberline {2}\IeC {\"U}bungen zum Abspannen, Aufw\IeC {\"a}rmen und die Stimmhygiene}{33}{chapter.2}
+\contentsline {section}{\numberline {2.1}Pendeln}{33}{section.2.1}
+\contentsline {section}{\numberline {2.2}Trampeln}{33}{section.2.2}
+\contentsline {section}{\numberline {2.3}Beine/ Arme aussch\IeC {\"u}tteln}{33}{section.2.3}
+\contentsline {section}{\numberline {2.4}Abklopfen}{33}{section.2.4}
+\contentsline {section}{\numberline {2.5}Abklopfen in 3er-Gruppen}{33}{section.2.5}
+\contentsline {section}{\numberline {2.6}Kiefer \IeC {\"o}ffnen}{34}{section.2.6}
+\contentsline {section}{\numberline {2.7}Kiefer verschieben}{34}{section.2.7}
+\contentsline {section}{\numberline {2.8}Luftkugel}{34}{section.2.8}
+\contentsline {section}{\numberline {2.9}Amulette}{34}{section.2.9}
+\contentsline {section}{\numberline {2.10}Vierteilige Lockerung}{34}{section.2.10}
+\contentsline {section}{\numberline {2.11}Seufzer}{34}{section.2.11}
+\contentsline {subsection}{\numberline {2.11.1}\IeC {\"U}berh\IeC {\"a}ngender Seufzer}{35}{subsection.2.11.1}
+\contentsline {section}{\numberline {2.12}Kutschersitz}{35}{section.2.12}
+\contentsline {section}{\numberline {2.13}Tonkauen}{35}{section.2.13}
+\contentsline {section}{\numberline {2.14}Tonh\IeC {\"o}hen mit Interjektionen variieren}{35}{section.2.14}
+\contentsline {section}{\numberline {2.15}Tonf\IeC {\"u}hrung}{35}{section.2.15}
+\contentsline {section}{\numberline {2.16}Schulter\IeC {\"u}bung}{35}{section.2.16}
+\contentsline {section}{\numberline {2.17}Von Singstimme in Sprechstimme}{35}{section.2.17}
+\contentsline {section}{\numberline {2.18}Namen}{35}{section.2.18}
+\contentsline {section}{\numberline {2.19}Laute sprechen}{36}{section.2.19}
+\contentsline {section}{\numberline {2.20}Arme heben und beim Senken Laute phonieren}{36}{section.2.20}
+\contentsline {section}{\numberline {2.21}Spannung}{36}{section.2.21}
+\contentsline {section}{\numberline {2.22}Rufstimme}{36}{section.2.22}
+\contentsline {section}{\numberline {2.23}Gaumensegel entspannnen}{36}{section.2.23}
+\contentsline {section}{\numberline {2.24}Bonbon-Mund}{37}{section.2.24}
+\contentsline {chapter}{\numberline {3}Pers\IeC {\"o}nliches Trainingsprogramm}{39}{chapter.3}
+\contentsline {part}{\numberline {VI}Phonetik}{41}{part.6}
+\contentsline {chapter}{\numberline {1}Kurze Geschichte der Standardlautung}{43}{chapter.1}
+\contentsline {chapter}{\numberline {2}physologisches Sprechen und Atmen}{45}{chapter.2}
+\contentsline {section}{\numberline {2.1}Atmung}{45}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}exspiratorische Orientierung}{45}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Intention}{45}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Abspannen}{46}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Tonst\IeC {\"u}tze}{46}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Der supraglottische Raum}{46}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}Ablauf der Atmung}{47}{subsection.2.1.6}
+\contentsline {section}{\numberline {2.2}Aufbau des Atem- und Sprechtrakts}{47}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Atmungstrakt}{47}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Sprechtrakt}{48}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Krankheiten}{48}{section.2.3}
+\contentsline {section}{\numberline {2.4}Aussprache}{48}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Vokale}{48}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Konsonaten}{48}{subsection.2.4.2}
+\contentsline {part}{\numberline {VII}Theatertheorie}{49}{part.7}
+\contentsline {chapter}{\numberline {1}Grundbegriffe}{51}{chapter.1}
+\contentsline {section}{\numberline {1.1}Fabel}{51}{section.1.1}
